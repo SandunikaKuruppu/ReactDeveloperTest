@@ -1,0 +1,16 @@
+.user-info-view {
+    padding: 20px;
+  }
+  
+  .user-info {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .user-info img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
